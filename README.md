@@ -1,3 +1,26 @@
+# Simple Calculator Using Java
+
+This is a simple calculator program written in Java that can perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+
+## Usage
+
+To use the calculator, simply run the `Calculator.java` file in your preferred IDE or from the command line. The program will prompt you to enter two numbers and an operator (+, -, *, /) to perform the desired operation.
+
+
+The program will continue to prompt you for input until you enter "exit" as the operator.
+
+
+## Repository Structure
+
+The repository is organized as follows:
+
+- src/
+  - Calculator.java
+
+### Contributing
+Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
+
+
 
 <a class="libutton" href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7048697898070409216" target="_blank">⚡Subscribe on LinkedIn🌱🌱🌱</a>
 <a class="libutton" href="https://www.bing.com/ck/a?!&&p=cb74efed28b39ffcJmltdHM9MTY4MDQ4MDAwMCZpZ3VpZD0wMWFiYTk0My0wNjg5LTY3OTctMTljMy1iYjUxMDc3ZTY2NTUmaW5zaWQ9NTE4Ng&ptn=3&hsh=3&fclid=01aba943-0689-6797-19c3-bb51077e6655&psq=adv+indian+coder&u=a1aHR0cHM6Ly93d3cueW91dHViZS5jb20vY2hhbm5lbC9VQzBrbzFlRDNTWFR2dUJKZkpIT1F1VVEvdmlkZW9z&ntb=1" target="_blank">⚡Subscribe on YouTube🌱🌱🌱
